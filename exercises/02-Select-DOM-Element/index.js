@@ -1,1 +1,1 @@
-//your code here
+window.alert("#theTitle");
